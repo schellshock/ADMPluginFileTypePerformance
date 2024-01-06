@@ -25,7 +25,7 @@ namespace AgGateway.ADAPT.ADMPlugin
       _admSerializer = admSerializer;
     }
 
-    public string Name => "ADM";
+    public string Name => "ADM.Other.Formats";
 
     public string Owner => "AgGateway";
 
