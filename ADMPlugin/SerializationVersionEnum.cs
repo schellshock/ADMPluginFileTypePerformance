@@ -10,7 +10,7 @@ namespace AgGateway.ADAPT.ADMPlugin
         V1 = 1,
         V2 = 2,
         XML = 3,
-        SQLlite = 4, // maybe just have geopackage?
+        SQLite = 4,
         Parquet = 5
     }
 }
