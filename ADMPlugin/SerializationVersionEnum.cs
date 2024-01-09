@@ -8,6 +8,9 @@ namespace AgGateway.ADAPT.ADMPlugin
     {
         Unknown = 0,
         V1 = 1,
-        V2 = 2
+        V2 = 2,
+        XML = 3,
+        SQLlite = 4, // maybe just have geopackage?
+        Parquet = 5
     }
 }
